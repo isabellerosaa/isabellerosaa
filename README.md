@@ -4,7 +4,7 @@ Perfil profissional e projetos de ciência da computação
 
 # Olá! Eu sou a Isabelle 👋
 
-🎓 Estudante de Ciência da Computação
+🎓 Estudante do 8º semestre de Ciência da Computação
 
 💻 Tenho interesse em desenvolvimento de software e tecnologia.
 
